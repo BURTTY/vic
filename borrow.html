@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Borrow an Item</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head><link rel="stylesheet" href="styles.css">
+
+<body>
+    <div class="form-container">
+        <h2>Borrow an Item</h2>
+        <form id="borrowForm">
+            <input type="text" id="student_name" placeholder="Student Name" required>
+            <select id="item" required>
+                <option value="">Select an Item</option>
+                <option value="Laptop">Laptop</option>
+                <option value="Projector">Projector</option>
+                <option value="Camera">Camera</option>
+            </select>
+            <input type="text" id="section" placeholder="Section" required>
+            <input type="date" id="borrow_date" required>
+            <input type="time" id="borrow_time" required>
+            <button type="submit">Submit Request</button>
+        </form>
+    </div>
+</body>
+</html>
