@@ -1,0 +1,26 @@
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\bin\Debug\sample1.exe.config
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\bin\Debug\sample1.exe
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\bin\Debug\sample1.pdb
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\bin\Debug\sample1.xml
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\obj\Debug\sample1.vbprojResolveAssemblyReference.cache
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\obj\Debug\sample1.vbproj.ResolveComReference.cache
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\obj\Debug\sample1.frmAccount.resources
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\obj\Debug\sample1.Resources.resources
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\obj\Debug\sample1.vbproj.GenerateResource.Cache
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\obj\Debug\sample1.exe
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\obj\Debug\sample1.xml
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\obj\Debug\sample1.pdb
+C:\Users\SIR JOVZ\Downloads\sample1\sample1\obj\Debug\sample1.frmLogin.resources
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\bin\Debug\sample1.exe.config
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\obj\Debug\sample1.vbproj.ResolveComReference.cache
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\obj\Debug\sample1.exe
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\obj\Debug\sample1.xml
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\obj\Debug\sample1.pdb
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\bin\Debug\sample1.exe
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\bin\Debug\sample1.pdb
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\bin\Debug\sample1.xml
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\obj\Debug\sample1.vbprojResolveAssemblyReference.cache
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\obj\Debug\sample1.frmAccount.resources
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\obj\Debug\sample1.frmLogin.resources
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\obj\Debug\sample1.Resources.resources
+C:\Users\denni\Downloads\vbnet\SAMPLE_1\sample1\obj\Debug\sample1.vbproj.GenerateResource.Cache
